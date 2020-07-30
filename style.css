@@ -6,7 +6,7 @@ body{
 }
 
 header{
-	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background:white url("mountain.jpg") fixed no-repeat ;
 	background-size:cover;
 	text-align:center;
 	color:white;
@@ -14,7 +14,7 @@ header{
 }
 
 footer{
-	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background:white url("mountain.jpg") fixed no-repeat ;
 	background-size:cover;
 	text-align:center;
 	color:white;
@@ -23,7 +23,7 @@ footer{
 
 nav{
 	overflow:hidden;
-	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background:white url("mountain.jpg") fixed no-repeat ;
 	background-size:cover;
 }
 
@@ -66,7 +66,7 @@ nav ul li a.active{
 }
 
 aside{
-	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background:white url("mountain.jpg") fixed no-repeat ;
 	background-size:fixed;
 	float:left;
 	text-align:center;
@@ -97,7 +97,7 @@ aside ul li a:hover{
 }
 
 section{
-	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background:white url("mountain.jpg") fixed no-repeat ;
 	background-size:cover;
 	margin-left:200px;
 	border-left:1px solid white;
@@ -106,7 +106,7 @@ section{
 } 
 
 section{
-	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background:white url("mountain.jpg") fixed no-repeat ;
 	background-size:cover;
 	margin-left:200px;
 	border-left:1px solid white;
@@ -116,7 +116,7 @@ section{
 
 
 details{
-	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background:white url("mountain.jpg") fixed no-repeat ;
 	background-size:cover;
 	color:white;
 	margin:5px;
@@ -125,7 +125,7 @@ details{
 	border-radius:25px;	
 }
 details:hover{
-	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background:white url("mountain.jpg") fixed no-repeat ;
 	background-size:cover;
 	font-size:20px;
 	color:white;
