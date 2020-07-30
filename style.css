@@ -1,0 +1,148 @@
+@charset "utf-8";
+
+body{
+	margin:0px;  
+	scroll-behavior: smooth;
+}
+
+header{
+	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background-size:cover;
+	text-align:center;
+	color:white;
+	padding:10px;
+}
+
+footer{
+	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background-size:cover;
+	text-align:center;
+	color:white;
+	padding:10px;
+}
+
+nav{
+	overflow:hidden;
+	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background-size:cover;
+}
+
+nav ul{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+
+nav ul li{
+	float:left;
+}
+
+nav ul li a{
+	text-decoration:none;
+	color:white;
+	padding:15px 25px;
+	display:inline-block;
+	font-size:18px;
+}
+
+nav ul li a:hover{
+	background-color:grey;
+	border-radius:15px;
+	text-decoration:none;
+	color:white;
+	padding:15px 25px;
+	display:inline-block;
+	font-size:18px;
+}
+
+nav ul li a.active{
+	background-color:grey;
+	border-radius:15px;
+	text-decoration:none;
+	color:white;
+	padding:15px 25px;
+	display:inline-block;
+	font-size:18px;
+}
+
+aside{
+	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background-size:fixed;
+	float:left;
+	text-align:center;
+	width:200px; 
+}
+
+aside ul{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+
+aside ul li a{
+	text-decoration:none;
+	color:white;
+	padding:15px 25px;
+	display:block;
+}
+
+aside ul li a:hover{
+	background-color:grey;
+	border-radius:15px;
+	font-size:20px;
+	text-decoration:none;
+	color:white;
+	padding:15px 25px;
+	display:block;
+}
+
+section{
+	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background-size:cover;
+	margin-left:200px;
+	border-left:1px solid white;
+	padding:10px;
+	
+} 
+
+section{
+	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background-size:cover;
+	margin-left:200px;
+	border-left:1px solid white;
+	padding:10px;
+	cursor:pointer;
+} 
+
+
+details{
+	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background-size:cover;
+	color:white;
+	margin:5px;
+	padding:10px;
+	border:1px solid white;
+	border-radius:25px;	
+}
+details:hover{
+	background:white url("C:/Users/SuRu/Desktop/Web-Rev/CodeWithME/Projects/Company Website UX-UI Design/images/mountain.jpg") fixed no-repeat ;
+	background-size:cover;
+	font-size:20px;
+	color:white;
+	margin:5px;
+	padding:10px;
+	border:1px solid white;
+	border-radius:25px;	
+}
+
+summary{
+	outline:none;
+}
+
+article p{
+	border:1px solid white;
+	padding:5px;
+	border-radius:10px;
+}
+
+
